@@ -247,3 +247,5 @@ p{margin:0 0 1.1em}
 .announce .short{display:none}
 @media (max-width:640px){.announce .long{display:none}.announce .short{display:inline}.announce{font-size:.72rem}}
 @media (min-width:1081px){.brand img{height:70px}}
+.nav>a.btn{background:var(--green);color:var(--ivory);border:1px solid var(--green)}
+.nav>a.btn:hover{background:var(--green-deep);color:#fff}
