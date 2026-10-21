@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    { "source": "/home", "destination": "/", "permanent": true },
+    { "source": "/home/", "destination": "/", "permanent": true },
+    { "source": "/reservations-1", "destination": "/reservations.html", "permanent": true },
+    { "source": "/reservations-1/", "destination": "/reservations.html", "permanent": true },
+    { "source": "/date-night-wednesday", "destination": "/date-night.html", "permanent": true },
+    { "source": "/date-night-wednesday/", "destination": "/date-night.html", "permanent": true }
+  ]
+}
